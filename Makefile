@@ -64,7 +64,9 @@ SRCS =	ft_memset.c			\
 		ft_strlower.c		\
 		ft_isspace.c		\
 		ft_bubble_sort.c	\
-		ft_sqrt.c
+		ft_sqrt.c			\
+		ft_swap.c			\
+		get_next_line.c
 
 HEADER = ./includes
 
